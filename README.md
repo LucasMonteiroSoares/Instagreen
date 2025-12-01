@@ -1,34 +1,28 @@
 # 🌱 Instagreen
 
-Rede social sustentável onde usuários compartilham ações ecológicas, ganham pontos e cultivam um jardim virtual que representa seu impacto ambiental real. Esse projeto foi solicitado na disciplina de Interação Humano-Computador, desenvolvemos apenas o front-end com ajuda de prototipagem em FIGMA.
+> **Projeto Acadêmico - Interação Humano-Computador (IHC)**
 
-## 🚀 Como Rodar
+O **Instagreen** é uma rede social voltada para a sustentabilidade, onde usuários compartilham ações ecológicas, participam de desafios e cultivam um **Jardim Virtual** que floresce conforme o impacto ambiental real de suas atividades.
 
-### 1. Instalar dependências
+O foco principal deste desenvolvimento foi a experiência do usuário (**UI/UX**), aplicando metodologias de design, prototipagem no **Figma** e validações com usuários reais antes e durante a codificação do front-end.
+
+- 🔗 **[Visualizar Protótipo no Figma](https://www.figma.com/community/file/1561900046706672351)**
+
+## 🚀 Como Rodar (GitHub Codespaces)
+
+### 1. Mudar para diretório correto
+```bash
+cd Projeto
+```
+
+### 2. Instalar dependências
 ```bash
 npm install
 ```
 
-### 2. Rodar em modo desenvolvimento
+### 3. Rodar em modo desenvolvimento
 ```bash
 npm run dev
-```
-
-O app estará disponível em: **http://localhost:5173**
-
-### 3. Testar no celular (mesma rede WiFi)
-
-1. Descubra o IP do seu computador:
-   - **Windows**: `ipconfig` no CMD
-   - **Mac/Linux**: `ifconfig` ou `ip addr`
-
-2. No celular, acesse: `http://SEU_IP:5173`
-
-## 📱 Build para Produção
-
-```bash
-npm run build
-npm run preview
 ```
 
 ## 🎯 Funcionalidades
